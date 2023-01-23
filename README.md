@@ -36,7 +36,7 @@ The data is released in a json format with each example (json object) representi
 * choice/unshown_background: The choice/infobox above concatenated with Wikipedia sections that were *not* shown to annotators.
 * expressions: Referring expressions written by crowd workers to select the target entity.
 
-The "data" directory contains the full set of examples (all.json). For each domain (books, recipes, and songs), a subdirectory contains all its examples which are split into train.json, dev.json, and test.json. In addition, the mixed subdirectory contains the mix of examples in the three domains.
+The ``data'' directory contains the full set of examples (all.json). For each domain (books, recipes, and songs), a subdirectory contains all its examples which are split into train.json, dev.json, and test.json. In addition, the mixed subdirectory contains the mix of examples in the three domains.
 
 ## Citation
 The dataset can be cited as:
