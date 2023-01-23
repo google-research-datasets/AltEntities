@@ -18,7 +18,7 @@ A full description of the data collection methodology, analyses, human rater ins
 
 Further details about the data are provided in [Data-Description.pdf](Data-Description.pdf)
 
-## Explanation of The Data Files
+## Explanation of the Data Files
 
 The data is released in a json format with each example (json object) representing one alternative question along with its referring expressions. Each example has the following fields:
 
