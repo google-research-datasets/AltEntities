@@ -2,7 +2,7 @@
 
 ## COPYRIGHT NOTICE
 
-This is the work of Mohammad Javad Hosseini, Filip Radlinski, Silvia Pareti, and Annie Louis from Google LLC, made available under the CC-BY SA 3.0 License. A full copy of the license can be found at https://creativecommons.org/licenses/by-sa/3.0/
+This is the work of *Mohammad Javad Hosseini*, *Filip Radlinski*, *Silvia Pareti*, and *Annie Louis* from Google LLC, made available under the CC-BY SA 3.0 License. A full copy of the license can be found at https://creativecommons.org/licenses/by-sa/3.0/
 
 ## The Dataset
 
