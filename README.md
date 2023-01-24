@@ -31,10 +31,10 @@ The data is released in a json format with each example (json object) representi
 * choices: Information about the two choices. See below fields for more information.
 * choice/name: The name of the choice.
 * choice/wikipedia_url: The Wikipedia URL of the choice.
-* choice/description: The choice description shown to human raters.
+* choice/description: The choice description shown to crowd workers.
 * choice/infobox: Textual representation of the choice’s Wikipedia infobox.
-* choice/unshown_background: The choice/infobox above concatenated with Wikipedia sections that were *not* shown to human raters.
-* expressions: Referring expressions written by human raters to select the target entity.
+* choice/unshown_background: The choice/infobox above concatenated with Wikipedia sections that were *not* shown to crowd workers.
+* expressions: Referring expressions written by crowd workers to select the target entity.
 
 The *data* directory contains the full set of examples (*all.json*). For each domain (*books*, *recipes*, and *songs*), a subdirectory contains all its examples which are split into *train.json*, *dev.json*, and *test.json*. In addition, the mixed subdirectory contains the mix of examples in the three domains.
 
