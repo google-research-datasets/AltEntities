@@ -1,4 +1,4 @@
-# Alternative Entities (AltEntities) dataset: Resolving Indirect Referring Expressions for Entity Selection
+# AltEntities (Alternative Entities) dataset: Resolving Indirect Referring Expressions for Entity Selection
 
 ## COPYRIGHT NOTICE
 
